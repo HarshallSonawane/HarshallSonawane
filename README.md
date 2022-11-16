@@ -1,32 +1,21 @@
-<h1 align="center">Hi 👋, I'm Harshal Sonawane</h1>
-<h3 align="center">Software Developer Who Turns Coffee Into Code!</h3>
+# 💫 About Me:
+🔭 I’m currently working on PERCEPTORS: Smart Glasses for Blind<br><br>🌱 I’m currently learning ReactJS<br><br>👯 I’m looking to collaborate on Web-D Projects<br><br>💬 Ask me about Kotlin, Java, OOP Concepts, Android Development<br><br>📫 How to reach me harshalsonawane127@gmail.com<br><br>⚡ Umm okay! Why do Java programmers have to wear glasses? Because they don’t C#.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshallsonawane&label=Profile%20views&color=0e75b6&style=flat" alt="harshallsonawane" /> </p>
 
-- 🔭 I’m currently working on **PERCEPTORS: Smart Glasses for Blind**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-sonawane-97100b229) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Harshii) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Harshalsonawane127) 
 
-- 🌱 I’m currently learning **ReactJS**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HarshallSonawane&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshallSonawane&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshallSonawane&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👯 I’m looking to collaborate on **Web-D Projects**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarshallSonawane&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 💬 Ask me about **Kotlin, Java, OOP Concepts, Android Development**
+---
+[![](https://visitcount.itsvg.in/api?id=HarshallSonawane&icon=6&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **harshalsonawane127@gmail.com**
-
-- ⚡ Umm okay! **Why do Java programmers have to wear glasses? Because they don’t C#.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harshal-sonawane-97100b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshal-sonawane-97100b229/" height="30" width="40" /></a>
-<a href="https://medium.com/@harshal.sonawane21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshal.sonawane21" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshal11297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshal11297" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@harshalsonawane4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshalsonawane4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/harshalsonawane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harshalsonawane/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harshalsonawane127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshalsonawane127" height="30" width="40" /></a>
-<a href="https://discord.gg/KìngSLaYeR#3694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KìngSLaYeR#3694" height="30" width="40" /></a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshallsonawane&show_icons=true&locale=en" alt="harshallsonawane" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshallsonawane&" alt="harshallsonawane" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
