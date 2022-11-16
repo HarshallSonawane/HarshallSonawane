@@ -7,7 +7,7 @@
 
 # 📊 GitHub Stats:
 <p align="centre">
-![](https://github-readme-stats.vercel.app/api?username=HarshallSonawane&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=HarshallSonawane&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /></p><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshallSonawane&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshallSonawane&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
