@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PERCEPTORS: Smart Glasses for Blind<br>🌱 I’m currently learning ReactJS<br>👯 I’m looking to collaborate on Web-D Projects<br>💬 Ask me about Kotlin, Java, OOP Concepts, Android Development<br>📫 How to reach me harshalsonawane127@gmail.com<br>⚡ Umm okay! Why do Java programmers have to wear glasses? Because they don’t C#.
+🔭 I’m currently working on Satelite Image Processing using GPGPU<br>🌱 I’m currently learning ReactJS<br>👯 I’m looking to collaborate on Web-D Projects<br>💬 Ask me about Kotlin, Java, OOP Concepts, Android Development<br>📫 How to reach me harshalsonawane127@gmail.com<br>⚡ Umm okay! Why do Java programmers have to wear glasses? Because they don’t C#.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-sonawane-97100b229) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Harshii) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Harshalsonawane127) 
