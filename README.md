@@ -10,13 +10,10 @@
   <img src="https://profile-counter.glitch.me/HarshallSonawane/count.svg?"  />
 </div>
 
-###
-  <div align="center">
-    [![An image of @harshallsonawane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshallsonawane)](https://holopin.io/@harshallsonawane)
-  </div>
-###
 
 ###
+
+[![An image of @harshallsonawane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshallsonawane)](https://holopin.io/@harshallsonawane)
 
 <h2 align="left">About me 💫</h2>
 
